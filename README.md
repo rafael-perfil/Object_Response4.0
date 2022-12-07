@@ -1,7 +1,7 @@
 # Object Response 4.0
 
 # A ideia -
-Depois de contato com pequenos projetos de IoT, surgiu a ideia de projetar um dispositivo display para monitoramento de Sites e leitura de arquivos .JSON por API, pensei que seria interresante um dispositivo que enviasse requisições de status para determinados sites afim de verificar a sua disponibilidade. 
+Depois de contato com pequenos projetos de IoT, surgiu a ideia de projetar um dispositivo display para monitoramento de Sites e leitura de arquivos .JSON por API, pensei que seria interresante um dispositivo de baixo custo que enviasse requisições de status para determinados sites afim de verificar a sua disponibilidade. 
 
 # Funcionamento 
 
